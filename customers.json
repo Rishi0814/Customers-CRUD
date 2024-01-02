@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "first_name": "Rishi",
+    "last_name": "Barad",
+    "city": "Ahmedabad",
+    "company": "TechPros"
+  },
+  {
+    "id": 2,
+    "first_name": "Keval",
+    "last_name": "Prajapati",
+    "city": "Surat",
+    "company": "DataGenius Solutions"
+  },
+  {
+    "id": 3,
+    "first_name": "Mira",
+    "last_name": "Desai",
+    "city": "Vadodara",
+    "company": "CodeCrafters"
+  },
+  {
+    "id": 4,
+    "first_name": "Neha",
+    "last_name": "Mehta",
+    "city": "Ahmedabad",
+    "company": "InnovateTech"
+  },
+  {
+    "id": 5,
+    "first_name": "Amit",
+    "last_name": "Gandhi",
+    "city": "Surat",
+    "company": "ByteBlast Solutions"
+  }
+]
